@@ -1,5 +1,5 @@
 body{
-  background-color:rgb(205，205,100);
+  background-color:purple;
 }
 p{
   color:white;
@@ -31,7 +31,7 @@ body{
 width:750px;
 margin-left:auto;
 margin-right:auto;
-border-width:5px;
+border-width:4px;
 border-style:solid;
 border-color:gray;
 border-radius:5px;
@@ -42,7 +42,7 @@ table{
 width:500px;
 margin-left:auto;
 margin-right:auto;
-border-width:3px;
+border-width:2px;
 border-style:solid;
 border-color:gray;
 }
