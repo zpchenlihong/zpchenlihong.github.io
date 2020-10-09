@@ -22,7 +22,7 @@ ol{
   color:blue;
 }
 body{
-background-color：azure;
+background-color：purple;
 width:750px;
 margin-left:auto;
 margin-right:auto;
@@ -45,7 +45,7 @@ border-color:gray;
 div{
   border-style: solid;
   border-width: 2px;
-  border-color: yellow;
+  border-color:gray;
 }
 #img-1{
   float: left;
