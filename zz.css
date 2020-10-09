@@ -51,3 +51,9 @@ div{
   border-width: 2px;
   border-color: yellow;
 }
+#img-1{
+  float: left;
+}
+div-end{
+  clear: both;
+}
