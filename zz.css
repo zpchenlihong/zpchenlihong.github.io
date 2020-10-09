@@ -1,6 +1,3 @@
-body{
-  background-color：dark;
-}
 p{
   color:white;
 }
@@ -18,16 +15,14 @@ h2{
 .otherp{
      color:yellow
 }
-table{
-  color:yellow;
-}
 *{
  font-family:"Times New Roman", Times, serif;
 }
 ol{
-  color:rgb(255,0,255);
+  color:blue;
 }
 body{
+background-color：azure;
 width:750px;
 margin-left:auto;
 margin-right:auto;
@@ -39,6 +34,7 @@ padding-left:20px;
 padding-right:20px;
 }
 table{
+color:yellow;
 width:500px;
 margin-left:auto;
 margin-right:auto;
