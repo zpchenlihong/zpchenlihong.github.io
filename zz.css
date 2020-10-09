@@ -13,7 +13,7 @@ h2{
   color:gold;
 }
 .otherp{
-     color:yellow
+     color:yellow;
 }
 *{
  font-family:"Times New Roman", Times, serif;
@@ -43,13 +43,13 @@ border-style:solid;
 border-color:gray;
 }
 div{
-  border-style: solid;
-  border-width: 2px;
+  border-style:solid;
+  border-width:2px;
   border-color:gray;
 }
 #img-1{
-  float: left;
+  float:left;
 }
 div.end{
-  clear: both;
+  clear:both;
 }
